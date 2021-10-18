@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArmaDefuego
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArmaDefuego\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numerocalibre\ precio\ tipopArma
+comment1.target=ArmaDefuego(int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=ArmaDefuego()
+comment3.params=nTipoArma
+comment3.target=void\ cambiarTipoDeArma(java.lang.String)
+comment4.params=nPrecio
+comment4.target=void\ cambiarPrecio(double)
+comment5.params=nNumeroCalibre
+comment5.target=void\ cambiarNumeroCalibre(int)
+numComments=6
